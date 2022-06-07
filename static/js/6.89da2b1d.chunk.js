@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[6],{56:function(e,t,c){"use strict";c.r(t);var n=c(0);t.default=function(){return Object(n.jsx)("div",{className:"centered",children:Object(n.jsx)("p",{children:"Page not found "})})}}}]);
+//# sourceMappingURL=6.89da2b1d.chunk.js.map
